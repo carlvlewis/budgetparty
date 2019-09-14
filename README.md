@@ -8,7 +8,7 @@
 
 ## 👋🏼 Hello! 
 
-We're Team Budget Party! Our team includes developers, designers, a publisher, a curriculum writer and educators from [Open Austin](https://www.open-austin.org/), the [Austin Monitor](https://www.austinmonitor.com/), and Austin ISD.
+We're Team Budget Party! Our team includes developers, designers, a publisher, a curriculum writer and educators from [Open SAvannah](https://www.opensavannah.org/), the [Savannnah Morning News](https://www.savannahnow.com/).
 
 We are interested in the health of our civic fabric and we are excited about the potential for youth inclusion in the decision making process of local government.
 
@@ -16,7 +16,7 @@ Thanks for coming here to learn more!
 
 ## Project Description
 
-Budget Party was built to help people understand and augment a city budget for Austin. It is an interactive app that is best used in context of a "Budget Party" event. 
+Budget Party was built to help people understand and augment a city budget for Savannah. It is an interactive app that is best used in context of a "Budget Party" event. 
 
 Historically, Budget party events have 4 parts:
 
@@ -27,7 +27,7 @@ Historically, Budget party events have 4 parts:
 
 
 
-Read about the [history of Budget Party](https://github.com/open-austin/budgetparty/wiki/Project-History) which includes information on the inception of the project and our Mozilla Grant funding. 
+Read about the [history of Budget Party](https://github.com/opensavannah/budgetparty/wiki/Project-History) which includes information on the inception of the project and our Mozilla Grant funding. 
 
 
 
